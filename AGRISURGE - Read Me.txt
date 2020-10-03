@@ -1,0 +1,18 @@
+Project Name: AGROW - Smart Irrigation
+
+Our project is mainly hardware based and the application is not a major value proposition for the project. 
+
+Our project is called AGROW which is an IoT based Smart Drip Irrigation system.
+
+     The main purpose of this project is to design an IoT based smart farm irrigation system that 
+caters to the water conservation needs of Pakistan. Drip Irrigation enables us to deliver water to 
+the roots of the plants, thus, delivering it where it is needed and in the exact amount that is needed.
+ It avoids water over-tension and help the plant grow faster leading to improved growth. 
+Instead of implementing a normal drip irrigation system, we have worked on the automation
+ of the drip irrigation system. Automation will be done by using various sensors to determine 
+the moisture content of the soil and proper data of the sensors will be sent to the farmer 
+using the wireless communication techniques. Moreover, we have built an application which will 
+be installed in the mobile and the farmer could analyze the moisture content with the help of 
+heat maps. After obtaining the data from the sensors, the valves will open and water will be 
+supplied and as soon as the water requirement of the soil is fulfilled, farmer will be notified,
+ and the valves will be closed.
